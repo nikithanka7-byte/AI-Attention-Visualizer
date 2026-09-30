@@ -35,7 +35,13 @@ pip install -r requirements.txt
 Note: Tesseract OCR must be installed separately on Windows.
 
 Application preview
-[streamlit-app-2026-09-29-22-37-57.webm](https://github.com/user-attachments/assets/bd40d95b-5c74-4848-a26a-a7d159c01f67)
+
+<img width="1344" height="622" alt="01" src="https://github.com/user-attachments/assets/86fb40bd-385c-4030-92c4-2ded968949fb" />
+<img width="1365" height="605" alt="04" src="https://github.com/user-attachments/assets/149c163f-b18a-401f-ae47-9d705d1195bc" />
+<img width="1337" height="598" alt="03" src="https://github.com/user-attachments/assets/94fd4170-da62-4b97-9799-8892c11d9f8f" />
+<img width="1356" height="611" alt="02" src="https://github.com/user-attachments/assets/83fef8d8-39b1-4372-90b4-c69a99ab9cb7" />
+
+
 
 
  Run
